@@ -1,4 +1,4 @@
-# Parent Child Rerender
+# Parent-Child Rerender
 Developed using Visual Studio Code for Windows, learning about the rendering parent-child relationship when using React.
 ## How to install
 Clone the repository and change directory to the deployment root directory, then execute the "http-server -c-1" command to start the application.
